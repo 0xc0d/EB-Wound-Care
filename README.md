@@ -16,4 +16,4 @@ Epidermolysis Bullosa Wound Care Resource
   * Alejandra Vivas
   * Robert J. Kelly
 
-### *all credits go to the researchers*
+### *all credits go to the original authors*
