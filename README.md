@@ -1,5 +1,4 @@
 # Epidermolysis Bullosa Wound Care Resource
-Epidermolysis Bullosa Wound Care Resource
 
 ## Special Thanks Go To
   * [J.C Su](mailto:john.su@rch.org.au)
